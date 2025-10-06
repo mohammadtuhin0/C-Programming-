@@ -1,0 +1,3 @@
+Student name: Tuhin
+Student age: 21
+Student CGPA: 3.240000
